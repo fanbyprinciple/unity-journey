@@ -57,7 +57,16 @@ public class PlayerCollision : MonoBehaviour
    }
 }
 
-
-
 ```
 1. `OnCollisionEnter` function loads whenever object collides with something
+
+1. A Vector3 stores 3 floats.
+
+https://www.youtube.com/watch?v=gAB64vfbrhI&list=PLPV2KyIb3jR53Jce9hP7G5xC4O9AgnOuL&index=6&pbjreload=101
+
+5.34
+
+resolve why pressing d and a is not working.
+
+1. Press 'F' to focus on it
+
